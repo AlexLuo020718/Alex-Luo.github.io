@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Open Sans', sans-serif;
   margin: 0;
@@ -62,4 +63,12 @@ footer {
   padding: 1rem;
   background-color: #eee;
   color: #555;
+}
+.project-img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 1rem auto;
+  border: 1px solid #ccc;
+  border-radius: 8px;
 }
